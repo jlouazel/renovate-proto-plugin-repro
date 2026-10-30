@@ -1,0 +1,20 @@
+.prototools
+  h_ce1720da92e5a8 1-6
+plugins/typos.toml
+  h_ce1720da92e5a8 1-21
+readme.md
+  h_ce1720da92e5a8 1-13
+renovate.json
+  h_ce1720da92e5a8 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "10fdbb40058d74b4dce55291a369a2e6b420a71d",
+  "prompts": {},
+  "humans": {
+    "h_ce1720da92e5a8": {
+      "author": "Jean-Baptiste Louazel <jb.louazel@genesis-ai.company>"
+    }
+  }
+}
