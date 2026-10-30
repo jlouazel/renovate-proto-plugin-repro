@@ -2,7 +2,7 @@
 
 ## Current behavior
 
-`.prototools` pins two tools installed through proto TOML plugins: `buf` from an `https://` plugin URL and `typos` from a local `file://` plugin. Renovate's `proto` manager reports both as `unsupported-datasource`, so neither gets an update PR.
+`.prototools` pins two tools installed through proto TOML plugins: `buf` from an `https://` plugin URL and `typos` from a local `file://` plugin. Renovate's `proto` manager reports both as `unsupported-datasource`, so neither gets an update PR. The [Dependency Dashboard](https://github.com/jlouazel/renovate-proto-plugin-repro/issues/1) shows `.prototools` detected with no dependencies listed and no pending branches.
 
 ## Expected behavior
 
