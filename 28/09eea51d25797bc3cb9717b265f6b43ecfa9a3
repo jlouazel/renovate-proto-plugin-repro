@@ -1,0 +1,14 @@
+readme.md
+  h_ce1720da92e5a8 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2809eea51d25797bc3cb9717b265f6b43ecfa9a3",
+  "prompts": {},
+  "humans": {
+    "h_ce1720da92e5a8": {
+      "author": "Jean-Baptiste Louazel <jb.louazel@genesis-ai.company>"
+    }
+  }
+}
