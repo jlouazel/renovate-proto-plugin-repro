@@ -1,0 +1,6 @@
+buf = "1.50.0"
+typos = "1.30.0"
+
+[plugins.tools]
+buf = "https://raw.githubusercontent.com/Genesis-Embodied-AI/proto-plugins/main/buf/plugin.toml"
+typos = "file://./plugins/typos.toml"
