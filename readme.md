@@ -10,4 +10,4 @@ Renovate reads each plugin's `[resolve] git-url`, looks up that repository's tag
 
 ## Link to the Renovate PR
 
-<PR_URL>
+https://github.com/renovatebot/renovate/pull/47578
